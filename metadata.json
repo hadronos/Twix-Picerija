@@ -1,0 +1,6 @@
+{
+  "name": "Pizzerija TWIX",
+  "description": "Modern and fast website for Pizzeria TWIX from Zrenjanin featuring pizza, burger, grill, and dessert menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
